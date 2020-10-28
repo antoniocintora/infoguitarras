@@ -1,0 +1,93 @@
+#encabezado {
+    background-image: url("https://images.wallpaperscraft.com/image/guitar_guitarist_bw_125985_2560x1024.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    font-family: 'Staatliches';
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 130px;
+}
+
+html {
+    font-family: serif;
+}
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#212121;
+  }
+  
+ #menu li {
+    float: left;
+  }
+  
+#menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+#menu li a:hover {
+    background-color:#484848;
+  }
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+#partes {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#212121;
+  }
+#partes li {
+      float: left;
+  }
+#partes li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+#partes li:hover{
+      background-color: darkgrey;
+  }
+  
+#tipos {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#212121;
+  }
+#tipos li {
+      float: left;
+  }
+#tipos li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  #tipos li:hover{
+      background-color: darkgrey;
+  }
+  h2 {
+      padding-right: 100%;
+      background-color: #212121;
+      color: white;
+      display: inline-flex;
+      text-align: right;
+  }
