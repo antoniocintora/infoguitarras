@@ -85,9 +85,6 @@ h1 {
       background-color: darkgrey;
   }
   h2 {
-      padding-right: 100%;
       background-color: #212121;
       color: white;
-      display: inline-flex;
-      text-align: right;
   }
