@@ -13,10 +13,24 @@
     padding-top: 200px;
     font-size: 130px;
 }
-
+#Vanhalen {
+  height: 200px;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+img{
+  height: 400px;
+  box-shadow: 2px 2px 8px black;
+}
+div img.zoomimage:active {
+  display: inline-block;
+  height: 900px;
+  width: auto;
+}
 html {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 18px;
     width: auto;
 }
 #menu {
@@ -129,3 +143,5 @@ h1 {
   .parrafo {
     display: inline;
   }
+
+ 
